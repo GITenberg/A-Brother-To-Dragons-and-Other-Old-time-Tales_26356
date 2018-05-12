@@ -1,0 +1,35 @@
+_repo: A-Brother-To-Dragons-and-Other-Old-time-Tales_26356
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26356-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rives, Amélie
+    aliases:
+    - Rives, Amelie
+    - Chandler, Amélie Rives
+    - Troubetzkoy, Amélie Louise Rives
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '31939'
+    url: http://www.gutenberg.org/2009/agents/31939
+    wikipedia: http://en.wikipedia.org/wiki/Am%C3%A9lie_Rives_Troubetzkoy
+description: Contents. -- A brother to dragons -- The farrier lass o' Piping Pebworth.
+  -- Nurse Crumpet tells the story.
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26356'
+  lccn: 08028488
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+tableOfContents: A brother to dragons -- The farrier lass o' Piping Pebworth -- Nurse
+  Crumpet tells the story.
+title: A Brother To Dragons and Other Old-time Tales
+url: http://www.gutenberg.org/ebooks/26356
